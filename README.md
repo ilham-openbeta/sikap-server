@@ -35,7 +35,7 @@ RESTful API digunakan untuk memberikan akses ke aplikasi [sikap-front](https://g
 Semua alamat API dapat dilihat pada file "sikap/application/config/routes.php". Dan data yang dibutuhkan dapat dilihat dimasing-masing model yang digunakan pada direktori "sikap/application/models/"
 
 ## Catatan
-Aplikasi ini digunakan dibuat untuk menyelesaikan tugas mata kuliah kerja bengkel. Aplikasi tidak pernah diimplementasikan. Data pada aplikasi hanyalah data palsu. Logo UGM milik UGM.
+Aplikasi ini dibuat untuk menyelesaikan tugas mata kuliah kerja bengkel. Aplikasi tidak pernah diimplementasikan. Data pada aplikasi hanyalah data palsu. Logo UGM milik UGM.
 
 ## Lisensi
 Jika tidak ada tulisan lisensi pada file source code berarti lisensinya MIT (bebas digunakan), tapi lebih baik kalian memberi tahu saya jika mengembangkan aplikasi ini :)
