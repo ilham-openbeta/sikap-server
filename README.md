@@ -36,3 +36,6 @@ Semua alamat API dapat dilihat pada file "sikap/application/config/routes.php". 
 
 ## Catatan
 Aplikasi ini digunakan dibuat untuk menyelesaikan tugas mata kuliah kerja bengkel. Aplikasi tidak pernah diimplementasikan. Data pada aplikasi hanyalah data palsu. Logo UGM milik UGM.
+
+## Lisensi
+Jika tidak ada tulisan lisensi pada file source code berarti lisensinya MIT (bebas digunakan), tapi lebih baik kalian memberi tahu saya jika mengembangkan aplikasi ini :)
